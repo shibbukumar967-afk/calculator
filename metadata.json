@@ -1,0 +1,7 @@
+{
+  "name": "OmniCalc Pro",
+  "description": "A precision multi-mode calculator with scientific functions, GST & financial tools, unit converter, age calculator, and interactive history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
